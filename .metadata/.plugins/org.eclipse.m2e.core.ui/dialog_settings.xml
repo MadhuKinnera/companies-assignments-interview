@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="MavenProjectImportWizardPage">
+		<list key="rootDirectory">
+			<item value="C:\Users\kinne\Desktop\project-k"/>
+			<item value="C:\Users\kinne\OneDrive\Desktop\jwtspringsecurityapp2"/>
+			<item value="C:\Users\kinne\OneDrive\Desktop\project-k"/>
+			<item value="C:\Users\kinne\OneDrive\Desktop\zohoproject"/>
+			<item value="C:\Users\kinne\OneDrive\Desktop\zohoproject\AzureProj-5"/>
+			<item value="C:\Users\kinne\Downloads\AzureProj-5 (1)"/>
+			<item value="C:\Users\kinne\Downloads\AzureProj-5\AzureProj-5"/>
+			<item value="C:\Users\kinne\Downloads\AzureProj-5"/>
+			<item value="C:\Users\kinne\OneDrive\Desktop\new_oracle_pointing\Mbpfm-Customer-App"/>
+			<item value="C:\Users\kinne\OneDrive\Desktop\new_oracle_pointing"/>
+			<item value="C:\Users\kinne\OneDrive\Desktop\Mbpfm-Customer-App"/>
+			<item value="C:\Users\kinne\OneDrive\Desktop\multibankpfm"/>
+			<item value="C:\Users\kinne\OneDrive\Desktop\CustomerIdBranch\Mbpfm-Customer-App"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="ProjectZoho"/>
+			<item value="Hey"/>
+			<item value="Hello"/>
+			<item value="Project-6"/>
+			<item value="AzureProj2"/>
+			<item value="pfm-app-api2"/>
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.overview">
+	</section>
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+	<section name="MavenProjectWizardLocationPage">
+		<list key="location">
+			<item value="C:\Users\kinne\eclipse-workspace\projectm\src\main\java\com\madhu\service\EncryptionServiceImpl.java"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArchetypePage">
+		<item key="catalog" value="internal"/>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="Maven2ProjectWizardArchifactPage">
+		<list key="package">
+			<item value="com.madhu.simplewebapp"/>
+		</list>
+		<list key="groupId">
+			<item value="com.madhu"/>
+		</list>
+		<list key="artifactId">
+			<item value="simplewebapp"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArtifactPage">
+		<list key="groupId">
+		</list>
+		<list key="name">
+		</list>
+		<list key="artifactId">
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+</section>

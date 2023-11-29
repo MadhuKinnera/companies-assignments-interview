@@ -1,0 +1,15 @@
+INDEX VERSION 1.134
+C:\Users\kinne\eclipse-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\879046076.index
+\pfm-app-api\src\main\java
+C:\Users\kinne\eclipse-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3939518029.index
+\pfm-app-api\src\main\java
+C:\Users\kinne\eclipse-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3768377627.index
+\AzureProj-1\src\main\java
+C:\Users\kinne\eclipse-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2262910485.index
+\Hey\src\main\java
+C:\Users\kinne\eclipse-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\4088715368.index
+\AzureProj-2\src\main\java
+C:\Users\kinne\eclipse-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1962566551.index
+\simplewebapp\src\main\resources
+C:\Users\kinne\eclipse-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2367286539.index
+\pfm-app-api\src\main\java

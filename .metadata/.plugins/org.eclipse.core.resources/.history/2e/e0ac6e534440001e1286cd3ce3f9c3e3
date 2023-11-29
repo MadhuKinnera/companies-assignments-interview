@@ -1,0 +1,58 @@
+package com.madhu.controller;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.http.ResponseEntity;
+import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RestController;
+
+import com.madhu.dto.GeneralResponse;
+import com.madhu.entity.Transaction;
+import com.madhu.exception.CustomerException;
+import com.madhu.exception.RecordException;
+import com.madhu.exception.TransactionException;
+import com.madhu.service.TransactionService;
+
+@RestController
+@RequestMapping("/transaction")
+public class TransactionController {
+	
+	@Autowired
+	private TransactionService transactionService;
+
+	ResponseEntity<GeneralResponse> addTransaction(Transaction transaction) throws TransactionException {
+		var generalResponse = new GeneralResponse();
+
+		generalResponse.setMessage("Transaction Added ");
+		generalResponse.setData(transaction);
+		
+		return ResponseEntity.ok(generalResponse);
+	}
+
+	ResponseEntity<GeneralResponse> getTransactionById(Integer transactionId) throws TransactionException {
+
+		var generalResponse = new GeneralResponse();
+
+		return ResponseEntity.ok(generalResponse);
+	}
+
+	ResponseEntity<GeneralResponse> getAllTransactionsByCustomerId(Integer customerId)
+			throws CustomerException, TransactionException {
+		var generalResponse = new GeneralResponse();
+
+		return ResponseEntity.ok(generalResponse);
+	}
+
+	ResponseEntity<GeneralResponse> getRecordByTransactionId(Integer transactionId)
+			throws TransactionException, RecordException {
+		var generalResponse = new GeneralResponse();
+
+		return ResponseEntity.ok(generalResponse);
+	}
+
+	ResponseEntity<GeneralResponse> getAllTransactionsByRank() throws TransactionException {
+		var generalResponse = new GeneralResponse();
+
+		return ResponseEntity.ok(generalResponse);
+	}
+
+}

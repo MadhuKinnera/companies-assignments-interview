@@ -1,0 +1,48 @@
+package com.madhu.controller;
+
+import org.springframework.http.ResponseEntity;
+import org.springframework.web.bind.annotation.RestController;
+
+import com.madhu.dto.GeneralResponse;
+import com.madhu.entity.Transaction;
+import com.madhu.exception.CustomerException;
+import com.madhu.exception.RecordException;
+import com.madhu.exception.TransactionException;
+
+@RestController
+public class TransactionController {
+
+	ResponseEntity<GeneralResponse> addTransaction(Transaction transaction) throws TransactionException {
+		var generalResponse = new GeneralResponse();
+
+		return ResponseEntity.ok(generalResponse);
+	}
+
+	ResponseEntity<GeneralResponse> getTransactionById(Integer transactionId) throws TransactionException {
+
+		var generalResponse = new GeneralResponse();
+
+		return ResponseEntity.ok(generalResponse);
+	}
+
+	ResponseEntity<GeneralResponse> getAllTransactionsByCustomerId(Integer customerId)
+			throws CustomerException, TransactionException {
+		var generalResponse = new GeneralResponse();
+
+		return ResponseEntity.ok(generalResponse);
+	}
+
+	ResponseEntity<GeneralResponse> getRecordByTransactionId(Integer transactionId)
+			throws TransactionException, RecordException {
+		var generalResponse = new GeneralResponse();
+
+		return ResponseEntity.ok(generalResponse);
+	}
+
+	ResponseEntity<GeneralResponse> getAllTransactionsByRank() throws TransactionException {
+		var generalResponse = new GeneralResponse();
+
+		return ResponseEntity.ok(generalResponse);
+	}
+
+}
