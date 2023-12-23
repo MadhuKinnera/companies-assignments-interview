@@ -36,8 +36,8 @@ INDEX VERSION 1.134+C:\Users\kinne\eclipse-workspace\.metadata\.plugins\org.ecli
 2540230942.index
 4163133851.index
 154268006.index
-3457559766.index
 3526382601.index
+3457559766.index
 2605165835.index
 2044304094.index
 1044858118.index
@@ -180,8 +180,8 @@ INDEX VERSION 1.134+C:\Users\kinne\eclipse-workspace\.metadata\.plugins\org.ecli
 3846803582.index
 2077402823.index
 1811108016.index
-2602551618.index
 3281845007.index
+2602551618.index
 3854116531.index
 1601980096.index
 3197609419.index
@@ -211,8 +211,8 @@ INDEX VERSION 1.134+C:\Users\kinne\eclipse-workspace\.metadata\.plugins\org.ecli
 2459960833.index
 3473587743.index
 848573928.index
-873796658.index
 2950363569.index
+873796658.index
 2992480102.index
 3391138094.index
 2730909996.index

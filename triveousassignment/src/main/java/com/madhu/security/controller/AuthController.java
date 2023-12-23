@@ -53,7 +53,7 @@ public class AuthController {
 
 		System.out.println("setting common utils user id to " + user.getUserId());
 
-		// utils.userId = user.getUserId();
+		// userInfo.getUserId() = user.getUserId();
 
 		context.setUser(user);
 
